@@ -1,6 +1,4 @@
 contacts = [
-    {'nama': 'ASRIANDI', 'email': 'asriandi2600@kemenimipas.go.id'},
-    {'nama': 'ASRIANI DERMAWAN', 'email': 'asriani.dermawan80@kemenimipas.go.id'},
     {'nama': 'ASRIANSYAH', 'email': 'asriansyah96@kemenimipas.go.id'},
     {'nama': 'ASRIANTO, S.Kom', 'email': 'asrianto87@kemenimipas.go.id'},
     {'nama': 'ASRIATI KERSTIANI', 'email': 'Asriati.Kerstiani@kemenimipas.go.id'},
