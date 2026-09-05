@@ -75,7 +75,7 @@ async def main(nama, email, c):
         await page.keyboard.press("Enter")
         # Sudah masuk boot
 
-        await page.wait_for_timeout(2000)
+        await page.wait_for_timeout(3000)
         #await page.mouse.click(470, 830) #info
         #await page.mouse.click(357, 624) #video
         await page.mouse.click(170, 662) #poster kiri
