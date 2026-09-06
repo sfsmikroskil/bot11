@@ -105,7 +105,7 @@ if __name__ == "__main__":
         nama = contact["nama"]
         #nama = nama[3:-3]
         email = contact["email"]
-        email = sisip(email, ".11)
+        email = sisip(email, ".11")
         c = i
         #print(f"Proses: {nama} ({email})")
         asyncio.run(main(nama, email, c))
